@@ -1,7 +1,7 @@
-PWD c:\Users\macma\Documents\ESEO\cour\ANGLAIS\SCIENTIFIC_WRITING\scientificarticle-main\scientificarticle
-INPUT C:\Users\macma\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\macma\Documents\ESEO\cour\ANGLAIS\SCIENTIFIC_WRITING\scientificarticle-main\scientificarticle\Scientific review.tex
-OUTPUT c:\Users\macma\Documents\ESEO\cour\ANGLAIS\SCIENTIFIC_WRITING\scientificarticle-main\scientificarticle\Scientific review.log
+PWD c:\Users\thepr\Desktop\Revue scientifique
+INPUT C:\Users\thepr\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
+INPUT c:\Users\thepr\Desktop\Revue scientifique\Scientific review.tex
+OUTPUT c:\Users\thepr\Desktop\Revue scientifique\Scientific review.log
 INPUT C:\Program Files\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Program Files\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Program Files\MiKTeX\tex\latex\base\article.cls
@@ -386,10 +386,10 @@ INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
-INPUT c:\Users\macma\Documents\ESEO\cour\ANGLAIS\SCIENTIFIC_WRITING\scientificarticle-main\scientificarticle\Scientific review.aux
-INPUT c:\Users\macma\Documents\ESEO\cour\ANGLAIS\SCIENTIFIC_WRITING\scientificarticle-main\scientificarticle\Scientific review.aux
-INPUT c:\Users\macma\Documents\ESEO\cour\ANGLAIS\SCIENTIFIC_WRITING\scientificarticle-main\scientificarticle\Scientific review.aux
-OUTPUT c:\Users\macma\Documents\ESEO\cour\ANGLAIS\SCIENTIFIC_WRITING\scientificarticle-main\scientificarticle\Scientific review.aux
+INPUT c:\Users\thepr\Desktop\Revue scientifique\Scientific review.aux
+INPUT c:\Users\thepr\Desktop\Revue scientifique\Scientific review.aux
+INPUT c:\Users\thepr\Desktop\Revue scientifique\Scientific review.aux
+OUTPUT c:\Users\thepr\Desktop\Revue scientifique\Scientific review.aux
 INPUT C:\Program Files\MiKTeX\tex\latex\hyperref\nameref.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\hyperref\nameref.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\hyperref\nameref.sty
@@ -420,18 +420,18 @@ INPUT C:\Program Files\MiKTeX\tex\generic\gettitlestring\gettitlestring.sty
 INPUT C:\Program Files\MiKTeX\tex\generic\gettitlestring\gettitlestring.sty
 INPUT C:\Program Files\MiKTeX\tex\generic\gettitlestring\gettitlestring.sty
 INPUT C:\Program Files\MiKTeX\tex\generic\gettitlestring\gettitlestring.sty
-INPUT c:\Users\macma\Documents\ESEO\cour\ANGLAIS\SCIENTIFIC_WRITING\scientificarticle-main\scientificarticle\Scientific review.out
-INPUT c:\Users\macma\Documents\ESEO\cour\ANGLAIS\SCIENTIFIC_WRITING\scientificarticle-main\scientificarticle\Scientific review.out
-INPUT c:\Users\macma\Documents\ESEO\cour\ANGLAIS\SCIENTIFIC_WRITING\scientificarticle-main\scientificarticle\Scientific review.out
-INPUT c:\Users\macma\Documents\ESEO\cour\ANGLAIS\SCIENTIFIC_WRITING\scientificarticle-main\scientificarticle\Scientific review.out
-INPUT c:\Users\macma\Documents\ESEO\cour\ANGLAIS\SCIENTIFIC_WRITING\scientificarticle-main\scientificarticle\Scientific review.out
-INPUT c:\Users\macma\Documents\ESEO\cour\ANGLAIS\SCIENTIFIC_WRITING\scientificarticle-main\scientificarticle\Scientific review.out
-INPUT c:\Users\macma\Documents\ESEO\cour\ANGLAIS\SCIENTIFIC_WRITING\scientificarticle-main\scientificarticle\Scientific review.out
-INPUT c:\Users\macma\Documents\ESEO\cour\ANGLAIS\SCIENTIFIC_WRITING\scientificarticle-main\scientificarticle\Scientific review.out
-INPUT c:\Users\macma\Documents\ESEO\cour\ANGLAIS\SCIENTIFIC_WRITING\scientificarticle-main\scientificarticle\Scientific review.out
-INPUT c:\Users\macma\Documents\ESEO\cour\ANGLAIS\SCIENTIFIC_WRITING\scientificarticle-main\scientificarticle\Scientific review.out
-OUTPUT c:\Users\macma\Documents\ESEO\cour\ANGLAIS\SCIENTIFIC_WRITING\scientificarticle-main\scientificarticle\Scientific review.out
-OUTPUT c:\Users\macma\Documents\ESEO\cour\ANGLAIS\SCIENTIFIC_WRITING\scientificarticle-main\scientificarticle\Scientific review.pdf
+INPUT c:\Users\thepr\Desktop\Revue scientifique\Scientific review.out
+INPUT c:\Users\thepr\Desktop\Revue scientifique\Scientific review.out
+INPUT c:\Users\thepr\Desktop\Revue scientifique\Scientific review.out
+INPUT c:\Users\thepr\Desktop\Revue scientifique\Scientific review.out
+INPUT c:\Users\thepr\Desktop\Revue scientifique\Scientific review.out
+INPUT c:\Users\thepr\Desktop\Revue scientifique\Scientific review.out
+INPUT c:\Users\thepr\Desktop\Revue scientifique\Scientific review.out
+INPUT c:\Users\thepr\Desktop\Revue scientifique\Scientific review.out
+INPUT c:\Users\thepr\Desktop\Revue scientifique\Scientific review.out
+INPUT c:\Users\thepr\Desktop\Revue scientifique\Scientific review.out
+OUTPUT c:\Users\thepr\Desktop\Revue scientifique\Scientific review.out
+OUTPUT c:\Users\thepr\Desktop\Revue scientifique\Scientific review.pdf
 INPUT C:\Program Files\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Program Files\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Program Files\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
@@ -481,11 +481,11 @@ INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam5.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm5.tfm
-INPUT C:\Users\macma\AppData\Local\MiKTeX\pdftex\config\pdftex.map
+INPUT C:\Users\thepr\AppData\Local\MiKTeX\pdftex\config\pdftex.map
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmsl10.tfm
-INPUT c:\Users\macma\Documents\ESEO\cour\ANGLAIS\SCIENTIFIC_WRITING\scientificarticle-main\scientificarticle\Scientific review.aux
-INPUT c:\Users\macma\Documents\ESEO\cour\ANGLAIS\SCIENTIFIC_WRITING\scientificarticle-main\scientificarticle\Scientific review.out
-INPUT c:\Users\macma\Documents\ESEO\cour\ANGLAIS\SCIENTIFIC_WRITING\scientificarticle-main\scientificarticle\Scientific review.out
+INPUT c:\Users\thepr\Desktop\Revue scientifique\Scientific review.aux
+INPUT c:\Users\thepr\Desktop\Revue scientifique\Scientific review.out
+INPUT c:\Users\thepr\Desktop\Revue scientifique\Scientific review.out
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb

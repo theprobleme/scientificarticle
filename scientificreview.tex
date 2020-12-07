@@ -1,0 +1,115 @@
+%%%%%%%%%%%%% Document Type %%%%%%%%%%%%%
+\documentclass[twoside,twocolumn]{article}                          % Article with 2 column
+\usepackage[english]{babel}                                         % English document
+\usepackage{enumitem}                                               % Items enumeration
+\usepackage{array}                                                  % Create tables
+\usepackage{eurosym}                                                % € symbol
+\usepackage{hyperref}                                               % Internet and pdf links
+\usepackage{color}                                                  % Colors for text
+\usepackage{fancyhdr}                                               % Type of LaTeX decoration
+\usepackage{titlesec}                                               % Style selection
+\usepackage{lscape}                                                 % Help top create a large document
+\usepackage{amssymb}                                                % Maths symbols
+\usepackage[margin=0.8in]{geometry}                                 % Margin
+\usepackage{blindtext}                                              % To create blank zones
+\usepackage{microtype}                                              % Micro texte
+\usepackage[hang, small,labelfont=bf,up,textfont=it,up]{caption}    % Caption modification
+\usepackage{lettrine}                                               % First enlarged letter
+\usepackage{titlesec}                                               % Allows customization of titles
+\usepackage{titling}                                                % Allows customization of title too
+\usepackage{authblk}                                                % For multiple authors
+\usepackage{graphicx}                                               % Use of graphics and images
+
+
+%%%%%%%%%%%%% Configurations %%%%%%%%%%%%%
+\linespread{1.05}
+\setlist[itemize]{noitemsep}                                        % Make itemize lists more compact
+\setlength{\abovecaptionskip}{0pt plus 0pt minus 0pt}               % Change length above caption
+\pagestyle{fancy}                                                   % LaTeX style
+\fancyhead{}                                                        % Blank out the default header
+\fancyfoot{}                                                        % Blank out the default footer
+\fancyhead[C]{TITLE $\bullet$ December 2020 $\bullet$ Vol. I, No. 1}% Custom header text
+\fancyfoot[RO,LE]{\thepage}                                         % Custom footer text
+
+%%%%%%%%%%%%% Title informations %%%%%%%%%%%%%
+\setlength{\droptitle}{-4\baselineskip}                             % Move the title up
+\pretitle{\begin{center}\Huge\bfseries}                             % Article title formatting
+\posttitle{\end{center}}                                            % Article title closing formatting
+\title{Article TITLE}
+\author[1]{LEFAY Paul}
+\author[1]{CESBRON Théo}
+\author[2]{HERVE Alexis}
+\author[2]{GELINEAU Emmanuel}
+\author[2]{GUYON Soren}
+\affil[1]{DSMT}
+\affil[2]{EOC}
+\affil[3]{CSS}
+
+\renewcommand{\maketitlehookd}{%
+\begin{abstract}
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum \\
+
+  \textbf{Keywords} : Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum \\
+\end{abstract}
+}
+
+%%%%%%%%%%%%% Start of the document %%%%%%%%%%%%%
+\begin{document}
+
+%%%%%%%%%%%%% Configurations %%%%%%%%%%%%%
+\renewcommand\thesection{\Roman{section}}                           % Roman numerals for the sections
+\renewcommand\thesubsection{\roman{subsection}}                     % roman numerals for subsections
+
+%%%%%%%%%%%%% Header and footer %%%%%%%%%%%%%
+
+\cfoot{\thepage}
+
+\maketitle{}										                                    %Génération du titre
+
+\newpage
+\section{Introduction}
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+
+\section{Method}
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+Petit exemple avec de l'indentation
+\begin{itemize}
+  \item Donec dolor arcu, rutrum id molestie in, viverra sed diam
+  \item Curabitur feugiat
+  \item turpis sed auctor facilisis
+  \item arcu eros accumsan lorem, at posuere mi diam sit amet tortor
+  \item Fusce fermentum, mi sit amet euismod rutrum
+\end{itemize}
+
+\section{Results}
+\subsection{First}
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+\subsection{Second}
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+
+\section{Discussion}
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+
+\section{Conclusion}
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+
+\begin{figure}[!h]
+  \begin{center}
+    \includegraphics[scale=0.2]{eseo.JPG}
+  \end{center}
+  \caption{Logo ESEO}
+\end{figure}
+
+
+\section{Acknowledgements}
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+
+\section{References}
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+
+\end{document}

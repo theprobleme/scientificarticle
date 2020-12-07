@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.11) (preloaded format=pdflatex 2020.11.3)  7 DEC 2020 15:09
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.11) (preloaded format=pdflatex 2020.12.7)  7 DEC 2020 15:13
 entering extended mode
-**"c:/Users/thepr/Desktop/Revue scientifique/Scientific review.tex"
-("c:/Users/thepr/Desktop/Revue scientifique/Scientific review.tex"
+**"c:/Users/macma/Documents/ESEO/cour/ANGLAIS/SCIENTIFIC_WRITING/scientificarticle-main/scientificarticle/Scientific review.tex"
+("c:/Users/macma/Documents/ESEO/cour/ANGLAIS/SCIENTIFIC_WRITING/scientificarticle-main/scientificarticle/Scientific review.tex"
 LaTeX2e <2020-10-01> patch level 2
 L3 programming layer <2020-10-27> xparse <2020-03-03> ("C:\Program Files\MiKTeX\tex/latex/base\article.cls"
 Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
@@ -70,7 +70,7 @@ Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
 ) ("C:\Program Files\MiKTeX\tex/latex/auxhook\auxhook.sty"
 Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 ) ("C:\Program Files\MiKTeX\tex/latex/kvoptions\kvoptions.sty"
-Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
 )
 \@linkdim=\dimen142
 \Hy@linkcounter=\count185
@@ -195,7 +195,7 @@ LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
 \l__kernel_color_stack_int=\count195
 \l__pdf_internal_box=\box52
-) ("c:/Users\thepr\Desktop\Revue scientifique\Scientific review.aux")
+) ("c:/Users\macma\Documents\ESEO\cour\ANGLAIS\SCIENTIFIC_WRITING\scientificarticle-main\scientificarticle\Scientific review.aux")
 \openout1 = `"Scientific review.aux"'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
@@ -227,7 +227,7 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 17.
 LaTeX Info: Redefining \pageref on input line 17.
 LaTeX Info: Redefining \nameref on input line 17.
- ("c:/Users\thepr\Desktop\Revue scientifique\Scientific review.out") ("c:/Users\thepr\Desktop\Revue scientifique\Scientific review.out")
+ ("c:/Users\macma\Documents\ESEO\cour\ANGLAIS\SCIENTIFIC_WRITING\scientificarticle-main\scientificarticle\Scientific review.out") ("c:/Users\macma\Documents\ESEO\cour\ANGLAIS\SCIENTIFIC_WRITING\scientificarticle-main\scientificarticle\Scientific review.out")
 \@outlinefile=\write3
 \openout3 = `"Scientific review.out"'.
 
@@ -262,20 +262,20 @@ Overfull \hbox (134.24408pt too wide) in paragraph at lines 25--32
 
 [1
 
-{C:/Users/thepr/AppData/Local/MiKTeX/pdftex/config/pdftex.map}] [2] ("c:/Users\thepr\Desktop\Revue scientifique\Scientific review.aux")
+{C:/Users/macma/AppData/Local/MiKTeX/pdftex/config/pdftex.map}] [2] ("c:/Users\macma\Documents\ESEO\cour\ANGLAIS\SCIENTIFIC_WRITING\scientificarticle-main\scientificarticle\Scientific review.aux")
 Package rerunfilecheck Info: File `"Scientific review".out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
  6468 strings out of 479799
- 96859 string characters out of 2879599
+ 97709 string characters out of 2879599
  387362 words of memory out of 3000000
  23349 multiletter control sequences out of 15000+200000
  542084 words of font info for 57 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 66i,16n,72p,267b,322s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 66i,16n,72p,328b,322s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on "c:/Users\thepr\Desktop\Revue scientifique\Scientific review.pdf" (2 pages, 54392 bytes).
+Output written on "c:/Users\macma\Documents\ESEO\cour\ANGLAIS\SCIENTIFIC_WRITING\scientificarticle-main\scientificarticle\Scientific review.pdf" (2 pages, 54407 bytes).
 PDF statistics:
  31 PDF objects out of 1000 (max. 8388607)
  3 named destinations out of 1000 (max. 500000)

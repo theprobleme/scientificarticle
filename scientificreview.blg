@@ -7,45 +7,46 @@ Reallocating 'name_of_file' (item size: 1) to 7 items.
 Database file #1: biblio.bib
 Warning--empty journal in Swimsuits
 Warning--empty journal in Fastskin
-You've used 2 entries,
+Warning--empty journal in armadillo
+You've used 3 entries,
             2118 wiz_defined-function locations,
-            512 strings with 4416 characters,
-and the built_in function-call counts, 644 in all, are:
-= -- 66
-> -- 14
-< -- 2
-+ -- 6
-- -- 4
-* -- 34
-:= -- 105
-add.period$ -- 6
-call.type$ -- 2
-change.case$ -- 8
+            516 strings with 4561 characters,
+and the built_in function-call counts, 957 in all, are:
+= -- 99
+> -- 21
+< -- 3
++ -- 9
+- -- 6
+* -- 51
+:= -- 153
+add.period$ -- 9
+call.type$ -- 3
+change.case$ -- 12
 chr.to.int$ -- 0
-cite$ -- 4
-duplicate$ -- 32
-empty$ -- 53
-format.name$ -- 4
-if$ -- 139
+cite$ -- 6
+duplicate$ -- 48
+empty$ -- 79
+format.name$ -- 6
+if$ -- 208
 int.to.chr$ -- 0
-int.to.str$ -- 2
-missing$ -- 2
-newline$ -- 13
-num.names$ -- 4
-pop$ -- 12
+int.to.str$ -- 3
+missing$ -- 3
+newline$ -- 18
+num.names$ -- 6
+pop$ -- 18
 preamble$ -- 1
-purify$ -- 6
+purify$ -- 9
 quote$ -- 0
-skip$ -- 26
+skip$ -- 39
 stack$ -- 0
-substring$ -- 42
-swap$ -- 10
-text.length$ -- 2
+substring$ -- 63
+swap$ -- 15
+text.length$ -- 3
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 8
-warning$ -- 2
-while$ -- 10
-width$ -- 3
-write$ -- 22
-(There were 2 warnings)
+type$ -- 12
+warning$ -- 3
+while$ -- 15
+width$ -- 4
+write$ -- 32
+(There were 3 warnings)

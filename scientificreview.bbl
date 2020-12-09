@@ -1,8 +1,15 @@
 \begin{thebibliography}{1}
 
-\bibitem{Demaine2007}
-Erik~D. Demaine, John Iacono, and Stefan Langerman.
-\newblock Retroactive data structures.
-\newblock {\em ACM Transactions on Algorithms}, 3, May 2007.
+\bibitem{Swimsuits}
+Hazim Moria; Harun Chowdhury; Firoz Alam; Aleksandar Subic; Alexander John
+  Smits; Rahim Jassim; Nasser~Suliman Bajaba.
+\newblock Contribution of swimsuits to swimmer’s performance.
+\newblock pages 1--6, April 2010.
+
+\bibitem{Fastskin}
+N~Benjanuvatra; G Dawson; B.A. Blanksby;~B.C. Elliott.
+\newblock Comparison of buoyancy, passive and net active drag forces between
+  fastskin™ and standard swimsuits.
+\newblock pages 1--9, 2002.
 
 \end{thebibliography}

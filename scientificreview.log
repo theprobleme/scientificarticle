@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.11) (preloaded format=pdflatex 2020.12.7)  9 DEC 2020 16:18
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.11) (preloaded format=pdflatex 2020.12.7)  10 DEC 2020 11:11
 entering extended mode
 **"c:/Users/thepr/Desktop/Revue scientifique/scientificreview.tex"
 ("c:/Users/thepr/Desktop/Revue scientifique/scientificreview.tex"
@@ -452,89 +452,89 @@ Package caption Info: End \AtBeginDocument code.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <17.7389> not available
-(Font)              size <17.28> substituted on input line 68.
+(Font)              size <17.28> substituted on input line 70.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <26.65437> not available
-(Font)              size <24.88> substituted on input line 68.
+(Font)              size <24.88> substituted on input line 70.
 
 Package lettrine.sty Info: Targeted height = 17.7389pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 16.99782pt (A);
-(lettrine.sty)             reported on input line 68.
+(lettrine.sty)             reported on input line 70.
 <fig2.JPG, id=32, 627.5445pt x 454.0965pt>
 File: fig2.JPG Graphic file (type jpg)
 <use fig2.JPG>
-Package pdftex.def Info: fig2.JPG  used on input line 78.
+Package pdftex.def Info: fig2.JPG  used on input line 80.
 (pdftex.def)             Requested size: 188.2648pt x 136.23pt.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 88.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 90.
 ("C:\Program Files\MiKTeX\tex/latex/amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 ) ("C:\Program Files\MiKTeX\tex/latex/microtype\mt-msa.cfg"
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 88.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 90.
  ("C:\Program Files\MiKTeX\tex/latex/amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) ("C:\Program Files\MiKTeX\tex/latex/microtype\mt-msb.cfg"
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
-Underfull \hbox (badness 10000) in paragraph at lines 91--91
+Underfull \hbox (badness 10000) in paragraph at lines 93--93
 []|\OT1/cmr/m/n/10 (+20) Towing
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 91--91
+Underfull \hbox (badness 10000) in paragraph at lines 93--93
 \OT1/cmr/m/n/10 (+20) Con-di-
  []
 
 
-Overfull \hbox (6.87874pt too wide) in paragraph at lines 91--91
+Overfull \hbox (6.87874pt too wide) in paragraph at lines 93--93
 []|\OT1/cmr/m/n/10 (-20) Fastskin\TS1/cmr/m/n/10 —| 
  []
 
 
-Overfull \hbox (7.4987pt too wide) in paragraph at lines 91--91
+Overfull \hbox (7.4987pt too wide) in paragraph at lines 93--93
 []|\OT1/cmr/m/n/10 (-20) Difference| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 95--95
+Underfull \hbox (badness 10000) in paragraph at lines 97--97
 []|\OT1/cmr/m/n/10 (+20) Surface
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 95--95
+Underfull \hbox (badness 10000) in paragraph at lines 97--97
 \OT1/cmr/m/n/10 (+20) (gild-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 99--99
+Underfull \hbox (badness 10000) in paragraph at lines 101--101
 []|\OT1/cmr/m/n/10 (+20) Surface
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 99--99
+Underfull \hbox (badness 10000) in paragraph at lines 101--101
 \OT1/cmr/m/n/10 (+20) (kick-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 103--103
+Underfull \hbox (badness 10000) in paragraph at lines 105--105
 []|\OT1/cmr/m/n/10 (+20) Depth
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 103--103
+Underfull \hbox (badness 10000) in paragraph at lines 105--105
 \OT1/cmr/m/n/10 (+20) (gild-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 107--107
+Underfull \hbox (badness 10000) in paragraph at lines 109--109
 []|\OT1/cmr/m/n/10 (+20) Depth
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 107--107
+Underfull \hbox (badness 10000) in paragraph at lines 109--109
 \OT1/cmr/m/n/10 (+20) (kick-
  []
 
@@ -545,17 +545,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 107--107
 <knee2.JPG, id=48, 199.947pt x 89.73524pt>
 File: knee2.JPG Graphic file (type jpg)
 <use knee2.JPG>
-Package pdftex.def Info: knee2.JPG  used on input line 123.
+Package pdftex.def Info: knee2.JPG  used on input line 125.
 (pdftex.def)             Requested size: 239.93518pt x 107.68172pt.
 
-Overfull \hbox (3.15082pt too wide) in paragraph at lines 123--124
+Overfull \hbox (3.15082pt too wide) in paragraph at lines 125--126
  [] 
  []
 
 <arma.JPG, id=49, 120.45pt x 75.8835pt>
 File: arma.JPG Graphic file (type jpg)
 <use arma.JPG>
-Package pdftex.def Info: arma.JPG  used on input line 136.
+Package pdftex.def Info: arma.JPG  used on input line 138.
 (pdftex.def)             Requested size: 120.44969pt x 75.8833pt.
 ("c:/Users\thepr\Desktop\Revue scientifique\scientificreview.bbl") [2 <c:/Users/thepr/Desktop/Revue scientifique/knee2.JPG> <c:/Users/thepr/Desktop/Revue scientifique/arma.JPG>] ("c:/Users\thepr\Desktop\Revue scientifique\scientificreview.aux")
 Package rerunfilecheck Info: File `scientificreview.out' has not changed.
@@ -567,17 +567,17 @@ LaTeX Font Warning: Size substitutions with differences
 
  ) 
 Here is how much of TeX's memory you used:
- 11602 strings out of 479697
- 180276 string characters out of 2877009
- 564700 words of memory out of 3000000
+ 11606 strings out of 479697
+ 180308 string characters out of 2877009
+ 564759 words of memory out of 3000000
  28413 multiletter control sequences out of 15000+200000
- 410713 words of font info for 80 fonts, out of 3000000 for 9000
+ 410815 words of font info for 82 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 66i,11n,72p,917b,446s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 66i,11n,72p,984b,446s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\thepr\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmti9.pfb>
-Output written on "c:/Users\thepr\Desktop\Revue scientifique\scientificreview.pdf" (2 pages, 229433 bytes).
+Output written on "c:/Users\thepr\Desktop\Revue scientifique\scientificreview.pdf" (2 pages, 230840 bytes).
 PDF statistics:
- 97 PDF objects out of 1000 (max. 8388607)
+ 98 PDF objects out of 1000 (max. 8388607)
  17 named destinations out of 1000 (max. 500000)
  15432 words of extra memory for PDF output out of 17280 (max. 10000000)
 

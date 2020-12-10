@@ -1,12 +1,12 @@
 # Fdb version 3
-["bibtex scientificreview"] 1607527118 "scientificreview.aux" "scientificreview.bbl" "scientificreview" 1607527123
+["bibtex scientificreview"] 1607590965 "scientificreview.aux" "scientificreview.bbl" "scientificreview" 1607595086
   "C:/Program Files/MiKTeX/bibtex/bst/bibtex/plain.bst" 1291864736 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
-  "biblio.bib" 1607526805 1293 3e8f2fbea6adac085801e3a768a1b498 ""
-  "scientificreview.aux" 1607527122 2334 d845fdabe67a54f04f43475a4b16fa35 "pdflatex"
+  "biblio.bib" 1607590695 1292 b70f0c375a2c1bb0c572b8855c0009d0 ""
+  "scientificreview.aux" 1607595085 2360 98f8a7acc3db5e22babe08fe3ade4f36 "pdflatex"
   (generated)
   "scientificreview.blg"
   "scientificreview.bbl"
-["pdflatex"] 1607527118 "c:/Users/thepr/Desktop/Revue scientifique/scientificreview.tex" "c:/Users/thepr/Desktop/Revue scientifique/scientificreview.pdf" "scientificreview" 1607527123
+["pdflatex"] 1607595081 "c:/Users/thepr/Desktop/Revue scientifique/scientificreview.tex" "c:/Users/thepr/Desktop/Revue scientifique/scientificreview.pdf" "scientificreview" 1607595086
   "C:/Program Files/MiKTeX/fonts/tfm/jknappen/ec/tcrm1000.tfm" 993058908 1436 c7f957a372ef2fbe93c0982f96625e12 ""
   "C:/Program Files/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
   "C:/Program Files/MiKTeX/fonts/tfm/public/amsfonts/symbols/msam10.tfm" 1233951854 916 f87d7c45f9c908e672703b83b72241a3 ""
@@ -110,18 +110,18 @@
   "C:/Users/thepr/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1607361419 9248670 5ac0db2d5cb566aea0ea602b911edab8 ""
   "C:/Users/thepr/AppData/Local/MiKTeX/pdftex/config/pdftex.map" 1607361414 246371 fe132b8e6b031234da3336f153f5457d ""
   "arma.JPG" 1607524994 11651 3e53bf1beaa16039de3f172fb6eef0bf ""
-  "c:/Users/thepr/Desktop/Revue scientifique/scientificreview.aux" 1607527122 2334 d845fdabe67a54f04f43475a4b16fa35 ""
-  "c:/Users/thepr/Desktop/Revue scientifique/scientificreview.tex" 1607527112 10635 07d68e949525a7a449293bee29801608 ""
+  "c:/Users/thepr/Desktop/Revue scientifique/scientificreview.aux" 1607595085 2360 98f8a7acc3db5e22babe08fe3ade4f36 ""
+  "c:/Users/thepr/Desktop/Revue scientifique/scientificreview.tex" 1607595080 10756 bd89e2ac5da79a8587e76df0e9e033f8 ""
   "fig2.JPG" 1607504282 83374 deb6a4dbf9e1da0734516bb7e5ad6916 ""
   "knee2.JPG" 1607525795 15425 a78c26d5b45842bcd7fec653122c0373 ""
-  "scientificreview.aux" 1607527122 2334 d845fdabe67a54f04f43475a4b16fa35 "pdflatex"
-  "scientificreview.bbl" 1607527118 731 50204605b3a4eec694eb5094dc1ff0d9 "bibtex scientificreview"
-  "scientificreview.out" 1607527122 317 c3a3a40fc440a756238a87c2b05ef181 "pdflatex"
-  "scientificreview.tex" 1607527112 10635 07d68e949525a7a449293bee29801608 ""
+  "scientificreview.aux" 1607595085 2360 98f8a7acc3db5e22babe08fe3ade4f36 "pdflatex"
+  "scientificreview.bbl" 1607590965 731 50204605b3a4eec694eb5094dc1ff0d9 "bibtex scientificreview"
+  "scientificreview.out" 1607595085 317 c3a3a40fc440a756238a87c2b05ef181 "pdflatex"
+  "scientificreview.tex" 1607595080 10756 bd89e2ac5da79a8587e76df0e9e033f8 ""
   (generated)
-  "scientificreview.pdf"
   "c:/Users/thepr/Desktop/Revue scientifique/scientificreview.pdf"
+  "scientificreview.log"
   "c:/Users/thepr/Desktop/Revue scientifique/scientificreview.log"
   "scientificreview.aux"
+  "scientificreview.pdf"
   "scientificreview.out"
-  "scientificreview.log"
